@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Marathon War",
+    "modifier": 3.0,
+    "scienceCostModifier": 4.5,
+    "cultureCostModifier": 3.0,
+    "constructionCostModifier": 0.75,
+    "unitCostModifier": 0.60,
+    "goldCostModifier": 1.2,
+    "faithCostModifier": 3.0,
+    "barbarianModifier": 1.5,
+    "dealDuration": 90,
+    "turns": [
+      {"turns": 300, "years": 10},
+      {"turns": 300, "years": 5},
+      {"turns": 350, "years": 2},
+      {"turns": 300, "years": 1}
+    ]
+  }
+]
